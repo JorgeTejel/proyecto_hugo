@@ -12,4 +12,4 @@ Me llamo Jorge Tejel Catalán, soy de un pequeño pueblo a unos 60km de Zaragoza
 
 Soy Técnico Superior en Marketing y Publicidad desde el 2020, titulado y diplomado en el Colegio Montessori(Zaragoza).
 
-Aunque este estudiando Desarrollo y Aplicacion web solo se apenas unas cuantas nociones basicas de informatica ya que soy bastante tarugo con los ordenadores, pero me esfuerzo mucho y nunca me rindo.
+Aunque este estudiando Desarrollo y Aplicacion web, solo se apenas unas cuantas nociones basicas de informatica ya que soy bastante tarugo con los ordenadores, pero me esfuerzo mucho y nunca me rindo.
